@@ -1,3 +1,4 @@
+#!/bin/bash
 # Depending on your system you might need to use sudo
 apt-get update
 apt-get install openjdk-8-jdk wget gnupg
